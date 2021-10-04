@@ -1,0 +1,25 @@
+2021-10-01 00:11:00.835 CEST [10460] LOG:  el sistema de bases de datos fue apagado en 2021-10-01 00:10:52 CEST
+2021-10-01 00:11:00.871 CEST [10216] LOG:  el sistema de bases de datos está listo para aceptar conexiones
+2021-10-01 10:38:01.782 CEST [14220] FATAL:  la autentificación password falló para el usuario «openpg»
+2021-10-01 10:38:01.782 CEST [14220] DETALLE:  La contraseña no coincide para el usuario «openpg».
+	La conexión coincidió con la línea 86 de pg_hba.conf: «host    all             all             ::1/128                 md5»
+2021-10-01 11:07:54.203 CEST [2808] FATAL:  la autentificación password falló para el usuario «openpg»
+2021-10-01 11:07:54.203 CEST [2808] DETALLE:  La contraseña no coincide para el usuario «openpg».
+	La conexión coincidió con la línea 86 de pg_hba.conf: «host    all             all             ::1/128                 md5»
+2021-10-01 11:07:57.718 CEST [6736] FATAL:  la autentificación password falló para el usuario «openpg»
+2021-10-01 11:07:57.718 CEST [6736] DETALLE:  La contraseña no coincide para el usuario «openpg».
+	La conexión coincidió con la línea 86 de pg_hba.conf: «host    all             all             ::1/128                 md5»
+2021-10-01 11:08:00.686 CEST [964] FATAL:  la autentificación password falló para el usuario «openpg»
+2021-10-01 11:08:00.686 CEST [964] DETALLE:  La contraseña no coincide para el usuario «openpg».
+	La conexión coincidió con la línea 86 de pg_hba.conf: «host    all             all             ::1/128                 md5»
+2021-10-01 11:08:07.687 CEST [9968] FATAL:  la autentificación password falló para el usuario «openpg»
+2021-10-01 11:08:07.687 CEST [9968] DETALLE:  La contraseña no coincide para el usuario «openpg».
+	La conexión coincidió con la línea 86 de pg_hba.conf: «host    all             all             ::1/128                 md5»
+2021-10-01 11:08:09.867 CEST [1508] FATAL:  la autentificación password falló para el usuario «openpg»
+2021-10-01 11:08:09.867 CEST [1508] DETALLE:  La contraseña no coincide para el usuario «openpg».
+	La conexión coincidió con la línea 86 de pg_hba.conf: «host    all             all             ::1/128                 md5»
+2021-10-01 11:08:12.791 CEST [16728] FATAL:  la autentificación password falló para el usuario «openpg»
+2021-10-01 11:08:12.791 CEST [16728] DETALLE:  La contraseña no coincide para el usuario «openpg».
+	La conexión coincidió con la línea 86 de pg_hba.conf: «host    all             all             ::1/128                 md5»
+2021-10-01 11:09:41.161 CEST [10556] LOG:  no se pudo recibir datos del cliente: An existing connection was forcibly closed by the remote host.
+	

@@ -1,0 +1,6 @@
+2021-10-04 00:18:18.715 CEST [6452] LOG:  se recibió petición de apagado rápido
+2021-10-04 00:18:18.723 CEST [6452] LOG:  abortando transacciones activas
+2021-10-04 00:18:18.726 CEST [7472] ERROR:  cancelando la sentencia debido a una petición del usuario
+2021-10-04 00:18:18.739 CEST [6452] LOG:  proceso ayudante «logical replication launcher» (PID 7472) terminó con código de salida 1
+2021-10-04 00:18:18.747 CEST [7432] LOG:  apagando
+2021-10-04 00:18:18.866 CEST [6452] LOG:  el sistema de bases de datos está apagado
